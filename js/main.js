@@ -26,7 +26,7 @@ button.addEventListener("click", () => {
     // Pindah halaman setelah 3 detik
     setTimeout(() => {
 
-        window.location.href = "../pages/memories.html";
+        window.location.href = "pages/memories.html";
 
     }, 3000);
 
